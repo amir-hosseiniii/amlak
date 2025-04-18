@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import db from "./../../data/db.json";
-import Home from "@/components/modules/Home";
+import Home from "@/Components/modules/Home";
 
 function index() {
   const [search, setSearch] = useState("");

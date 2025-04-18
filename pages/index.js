@@ -1,7 +1,7 @@
-import Features from "@/components/template/index/Features";
-import Gallery from "@/components/template/index/Gallery";
-import Homes from "@/components/template/index/Homes";
-import Story from "@/components/template/index/Story";
+import Features from "@/Components/template/index/Features";
+import Gallery from "@/Components/template/index/Gallery";
+import Homes from "@/Components/template/index/Homes";
+import Story from "@/Components/template/index/Story";
 import React from "react";
 
 function index() {
