@@ -1,6 +1,6 @@
 import React from "react";
 import db from "./../../../data/db.json";
-import Home from "@/components/modules/Home";
+import Home from "@/Components/modules/Home";
 
 function Homes() {
   console.log(db);
